@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEC5D2F6-0D97-47BB-B1D5-518319FB4D0F}|Workspace\\Workspace.csproj|c:\\users\\ardas\\desktop\\2024 c# bootcamp\\2024-cs-bootcamp-crudhomework\\workspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEC5D2F6-0D97-47BB-B1D5-518319FB4D0F}|Workspace\\Workspace.csproj|solutionrelative:workspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D47BF4F-E36C-4F06-A64C-DC255CF65D04}|Business\\Business.csproj|c:\\users\\ardas\\desktop\\2024 c# bootcamp\\2024-cs-bootcamp-crudhomework\\business\\concrete\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D47BF4F-E36C-4F06-A64C-DC255CF65D04}|Business\\Business.csproj|solutionrelative:business\\concrete\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D47BF4F-E36C-4F06-A64C-DC255CF65D04}|Business\\Business.csproj|c:\\users\\ardas\\desktop\\2024 c# bootcamp\\2024-cs-bootcamp-crudhomework\\business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D47BF4F-E36C-4F06-A64C-DC255CF65D04}|Business\\Business.csproj|solutionrelative:business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D47BF4F-E36C-4F06-A64C-DC255CF65D04}|Business\\Business.csproj|c:\\users\\ardas\\desktop\\2024 c# bootcamp\\2024-cs-bootcamp-crudhomework\\business\\concrete\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D47BF4F-E36C-4F06-A64C-DC255CF65D04}|Business\\Business.csproj|solutionrelative:business\\concrete\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D47BF4F-E36C-4F06-A64C-DC255CF65D04}|Business\\Business.csproj|c:\\users\\ardas\\desktop\\2024 c# bootcamp\\2024-cs-bootcamp-crudhomework\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D47BF4F-E36C-4F06-A64C-DC255CF65D04}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF1953-ED26-43E1-B5E2-88C9F480D3C8}|Entities\\Entities.csproj|c:\\users\\ardas\\desktop\\2024 c# bootcamp\\2024-cs-bootcamp-crudhomework\\entities\\concrete\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAF1953-ED26-43E1-B5E2-88C9F480D3C8}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF1953-ED26-43E1-B5E2-88C9F480D3C8}|Entities\\Entities.csproj|c:\\users\\ardas\\desktop\\2024 c# bootcamp\\2024-cs-bootcamp-crudhomework\\entities\\concrete\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAF1953-ED26-43E1-B5E2-88C9F480D3C8}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF1953-ED26-43E1-B5E2-88C9F480D3C8}|Entities\\Entities.csproj|c:\\users\\ardas\\desktop\\2024 c# bootcamp\\2024-cs-bootcamp-crudhomework\\entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAF1953-ED26-43E1-B5E2-88C9F480D3C8}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Workspace\\Program.cs",
-              "RelativeDocumentMoniker": "Workspace\\Program.cs",
-              "ToolTip": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Workspace\\Program.cs",
-              "RelativeToolTip": "Workspace\\Program.cs",
+              "Title": "InstructorManager.cs",
+              "DocumentMoniker": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Business\\Concrete\\InstructorManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\InstructorManager.cs",
+              "ToolTip": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Business\\Concrete\\InstructorManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\InstructorManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T15:12:19.933Z",
+              "WhenOpened": "2024-03-16T15:40:36.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Business\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Business\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CategoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:40:28.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseManager.cs",
+              "DocumentMoniker": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Business\\Concrete\\CourseManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CourseManager.cs",
+              "ToolTip": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Business\\Concrete\\CourseManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CourseManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:40:18.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Business",
+              "DocumentMoniker": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T15:39:31.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Entities\\Concrete\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Category.cs",
+              "ToolTip": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Entities\\Concrete\\Category.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:31:13.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Entities\\Concrete\\Course.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Course.cs",
+              "ToolTip": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Entities\\Concrete\\Course.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:25:26.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Entities\\Concrete\\Instructor.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Instructor.cs",
+              "ToolTip": "C:\\Users\\ardas\\Desktop\\2024 C# Bootcamp\\2024-CS-Bootcamp-CrudHomework\\Entities\\Concrete\\Instructor.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:28:31.761Z",
               "EditorCaption": ""
             }
           ]

@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workspace", "Workspace\Workspace.csproj", "{BEC5D2F6-0D97-47BB-B1D5-518319FB4D0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workspace", "Workspace\Workspace.csproj", "{BEC5D2F6-0D97-47BB-B1D5-518319FB4D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{9EAF1953-ED26-43E1-B5E2-88C9F480D3C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{6D47BF4F-E36C-4F06-A64C-DC255CF65D04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{BEC5D2F6-0D97-47BB-B1D5-518319FB4D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEC5D2F6-0D97-47BB-B1D5-518319FB4D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEC5D2F6-0D97-47BB-B1D5-518319FB4D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAF1953-ED26-43E1-B5E2-88C9F480D3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAF1953-ED26-43E1-B5E2-88C9F480D3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAF1953-ED26-43E1-B5E2-88C9F480D3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAF1953-ED26-43E1-B5E2-88C9F480D3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D47BF4F-E36C-4F06-A64C-DC255CF65D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D47BF4F-E36C-4F06-A64C-DC255CF65D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D47BF4F-E36C-4F06-A64C-DC255CF65D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D47BF4F-E36C-4F06-A64C-DC255CF65D04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
